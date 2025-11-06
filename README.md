@@ -51,4 +51,17 @@ l = [10, 20, 30, 40]
 print(50 in l)
 print(50 not in l)
 
+## 🧠 Identity Operators in Python | 5th November 2025
+
+### 📄 Code:
+```python
+x = 10
+y = 10
+print(x is y, x == y)     # True True
+
+x = 10
+y = 10
+print(x is not y, x != y) # False False
+True True
+False False
 
