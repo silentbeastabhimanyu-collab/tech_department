@@ -29,4 +29,26 @@ AI, Python, automation, and cyber systems.
 
 > “Tech is not about machines — it’s about mastery.”  
 > — Silent Beast Abhimanyu | Study · Tech · Lift · Cyber Security
+> # 🐍 Python Learning Journey – Silent Beast Abhimanyu
+
+This repository is my step-by-step Python learning record as part of my **Study · Tech · Lift · AI** mission.
+
+## 📘 Concepts Covered
+- Print Statements
+- Variables
+- String Concatenation
+- Arithmetic & Assignment Operators
+- Comparison Operators
+- Membership Operators (`in`, `not in`)
+
+## 💡 Example
+```python
+string = "Hellow"
+print('H' in string)
+print('h' in string)
+
+l = [10, 20, 30, 40]
+print(50 in l)
+print(50 not in l)
+
 
