@@ -64,4 +64,80 @@ y = 10
 print(x is not y, x != y) # False False
 True True
 False False
+🧠 Python Bitwise Operators — Logical Power of 0 & 1
+
+Author: Silent Beast Abhimanyu | Study · Tech · Lift · AI · Cyber Security (Evolve Experts)
+
+ Project Overview
+
+This project demonstrates the core logic behind Bitwise Operators in Python — &, |, and ^.
+It shows how binary operations reflect real-life principles like discipline, creativity, and balance.
+
+“Life works like bits —
+sometimes you need AND (discipline),
+sometimes OR (creativity),
+and sometimes XOR (balance).”
+
+ Code Example
+# Python Bitwise Operator Practice
+# Author: Silent Beast Abhimanyu | Study · Tech · Lift · AI · Cyber Security (Evolve Experts)
+
+x = 10
+y = 8
+
+print(bin(x))          # Binary representation of x
+print(bin(y))          # Binary representation of y
+
+print(x & y, bin(x & y))   # AND Operation
+print(x | y, bin(x | y))   # OR Operation
+print(x ^ y, bin(x ^ y))   # XOR Operation
+
+ Output
+0b1010
+0b1000
+8 0b1000
+10 0b1010
+0b10
+
+ Concept Breakdown
+Operator	Meaning	Example	Binary Result	Decimal Result
+&	Bitwise AND	10 & 8	1000	8
+`	`	Bitwise OR	10 | 8	1010
+^	Bitwise XOR	10 ^ 8	0010	2
+
+Explanation:
+
+AND (&) returns 1 only if both bits are 1.
+
+OR (|) returns 1 if any one bit is 1.
+
+XOR (^) returns 1 if bits are different.
+
+ What You’ll Learn
+
+Understanding binary numbers in Python.
+
+Visualizing bitwise operations using bin().
+
+Building logic for low-level computing and cybersecurity.
+
+Strengthening fundamentals for AI and system-level problem solving.
+
+ Tools Used
+
+Language: Python 3.13
+
+IDE: PyCharm
+
+OS: Windows
+
+Date: 6th November 2025
+
+Silent Beast Philosophy
+
+“Discipline is my Weapon.
+System is my Religion.”
+
+This project is part of the Silent Beast Learning Series —
+where every line of code represents a step toward master
 
