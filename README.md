@@ -140,4 +140,70 @@ System is my Religion.”
 
 This project is part of the Silent Beast Learning Series —
 where every line of code represents a step toward master
+# Python Basics Practice  
+### By Silent Beast Abhimanyu | Study • Tech • Lift • AI • Cyber Security
+
+This repository contains my daily practice files as I build strong foundations in Python programming.  
+The goal is to master the basics that power modern fields like **Artificial Intelligence, Machine Learning, Data Science, and Cyber Security**.
+
+---
+
+## 📚 Topics Covered
+
+### ✔ Data Types  
+- **Integers**  
+- **Floats**  
+- **Complex Numbers**  
+- **Strings** (single, double, triple quotes + multiline text)  
+- `.type()` usage for data verification  
+
+### ✔ Basic Experiments  
+- How Python treats values inside quotes as strings  
+- How commas create tuples  
+- Mixing numbers (int + float + complex)  
+- Error-based learning and debugging  
+- Multiline strings using triple quotes  
+
+---
+
+##  What I'm Learning Through This
+
+- Precision in coding  
+- How Python handles data internally  
+- Foundations for AI algorithms  
+- Logic building for Cyber Security automation  
+- Clean coding habits and debugging mindset  
+
+Every small concept adds a new layer of understanding.
+
+---
+
+## 🔥 My Learning Philosophy  
+**Consistency > Intensity.**  
+One line of code every day builds the mindset of a developer and the discipline of a warrior.
+
+---
+
+## 🚀 Upcoming Topics  
+- Lists, tuples, sets, dictionaries  
+- Conditional statements  
+- Loops  
+- Functions  
+- File handling  
+- OOP basics  
+- Data structures  
+
+---
+
+## 🙌 About Me  
+I am *Abhimanyu (Silent Beast)* —  
+Preparing for UPSC, learning AI + Python + Cyber Security, and building mental strength through discipline.
+
+**Study. Tech. Lift. Repeat.**
+
+---
+
+## ⭐ Connect With Me  
+If you want to collaborate, discuss learning, or share resources, feel free to reach out.
+
 
