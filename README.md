@@ -241,3 +241,27 @@ print(y, type(y))
 
 z = x + yj        # This line causes an error
 print(z, type(z))
+# Python Data Types — Float Practice  
+### By Silent Beast Abhimanyu | Study • Tech • Lift • AI • Cyber Security
+
+This repository contains my Python practice files focused on understanding the **float (decimal) data type** and how Python interprets numerical values during execution.
+
+---
+
+## 📘 Code Practiced
+
+```python
+a = 5
+print(a, type(a))
+
+b = 2.5
+print(b, type(b))
+
+x = 10.16
+print(x, type(x))
+
+y = 10.5
+print(y, type(y))
+
+z = 45.6
+print(z, type(z))
