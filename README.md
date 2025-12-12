@@ -206,4 +206,19 @@ Preparing for UPSC, learning AI + Python + Cyber Security, and building mental s
 ## ⭐ Connect With Me  
 If you want to collaborate, discuss learning, or share resources, feel free to reach out.
 
+# Python Data Type Practice — Float, Tuple & Type Checking  
+### By Silent Beast Abhimanyu | Study • Tech • Lift • AI • Cyber Security
+
+This project contains my practice files where I explored how Python handles different numeric data types — specifically **float values** and **accidental tuple creation using commas**.
+
+---
+
+## 📘 What I Learned
+
+### ✔ Float Data Type  
+Working with decimal numbers like:
+
+```python
+b = 10.16
+print(b, type(b))  
 
