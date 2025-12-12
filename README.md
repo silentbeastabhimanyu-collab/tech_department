@@ -295,4 +295,26 @@ print(a, type(a))
 (1+2j) <class 'complex'>
 (2+4j) <class 'complex'>
 (3+9j) <class 'complex'>
+# Python Float Data Type — Practice (25 Dec 2025)
+
+### By Silent Beast Abhimanyu | Study • Tech • Lift • AI • Cyber Security
+
+This project contains Python practice exercises focused on understanding how **float values** behave and how Python identifies different numeric types using the `type()` function.
+
+---
+
+## 📘 Code Practiced
+
+```python
+a = 2.5
+print(a, type(a))
+
+b = 10.16
+print(b, type(b))
+
+d = 10.5
+print(d, type(d))
+
+y = 45.6
+print(y, type(y))
 
