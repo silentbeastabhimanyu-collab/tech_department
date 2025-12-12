@@ -222,3 +222,22 @@ Working with decimal numbers like:
 b = 10.16
 print(b, type(b))  
 
+# Python New Challenge — Number Data Types (int, float & complex)
+
+### By Silent Beast Abhimanyu | Study • Tech • Lift • AI • Cyber Security
+
+This challenge explores how Python handles **integer**, **float**, and **complex** number data types — and how type conversion or operations between them behave during execution.
+
+---
+
+## 📌 Code Practiced
+
+```python
+x = 10
+print(x, type(x))
+
+y = 3.5
+print(y, type(y))
+
+z = x + yj        # This line causes an error
+print(z, type(z))
