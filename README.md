@@ -265,3 +265,34 @@ print(y, type(y))
 
 z = 45.6
 print(z, type(z))
+# Python Complex Number Data — Practice (10 Dec 2025)
+
+### By Silent Beast Abhimanyu | Study • Tech • Lift • AI • Cyber Security
+
+This project explores how Python handles **complex numbers** in mathematical expressions.  
+Python supports complex numbers natively using the syntax:
+
+where:  
+- **a** = real part  
+- **b** = imaginary part  
+
+---
+
+## 📘 Code Practiced
+
+```python
+a = 1 + 2j
+print(a, type(a))
+
+b = 1 + 2j
+print(b, type(b))
+
+d = 2 + 4j
+print(d, type(d))
+
+a = 3 + 9j
+print(a, type(a))
+(1+2j) <class 'complex'>
+(2+4j) <class 'complex'>
+(3+9j) <class 'complex'>
+
