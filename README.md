@@ -351,4 +351,26 @@ This repository contains my initial JavaScript practice work.
 - Visual Studio Code
 
 This repository documents my JavaScript learning journey.
+# JavaScript Basics – Data Types
+
+This project demonstrates basic JavaScript data types using variables.
+
+## Concepts Covered
+- String
+- Number
+- Boolean
+- Undefined
+- Null
+
+## What the program does
+- Declares variables using let
+- Logs values to the console
+- Runs using Node.js
+
+## Tools Used
+- JavaScript
+- Node.js
+- Visual Studio Code
+
+This repository documents my step-by-step JavaScript learning journey.
 
