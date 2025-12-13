@@ -393,4 +393,24 @@ This project demonstrates the use of if–else conditions in JavaScript.
 - Visual Studio Code
 
 This repository documents my step-by-step JavaScript learning progress.
+# Python Basics – Tuple Data Type
+
+This project demonstrates the use of tuples in Python.
+
+## Concepts Covered
+- Tuple creation
+- Storing multiple values
+- Checking data type using type()
+- Understanding immutability
+
+## What the program does
+- Creates tuples with different data
+- Prints tuple values
+- Displays the data type as tuple
+
+## Tools Used
+- Python
+- PyCharm
+
+This repository documents my step-by-step Python learning progress.
 
