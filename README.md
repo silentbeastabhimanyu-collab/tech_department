@@ -319,4 +319,8 @@ y = 45.6
 print(y, type(y))
 Basic C++ program
 Prints age using a variable and cout.
+# C++ Basics
+
+My first C++ program written using Visual Studio 2022.
+This program prints basic information using cout.
 
