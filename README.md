@@ -373,4 +373,24 @@ This project demonstrates basic JavaScript data types using variables.
 - Visual Studio Code
 
 This repository documents my step-by-step JavaScript learning journey.
+# JavaScript Basics – If Else Statement
+
+This project demonstrates the use of if–else conditions in JavaScript.
+
+## Concepts Covered
+- if–else statement
+- Comparison operators
+- Basic decision making logic
+
+## What the program does
+- Checks age value
+- Prints eligibility message based on condition
+- Runs using Node.js
+
+## Tools Used
+- JavaScript
+- Node.js
+- Visual Studio Code
+
+This repository documents my step-by-step JavaScript learning progress.
 
