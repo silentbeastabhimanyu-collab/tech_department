@@ -323,4 +323,18 @@ Prints age using a variable and cout.
 
 My first C++ program written using Visual Studio 2022.
 This program prints basic information using cout.
+# C++ Basics – Variables and Output
+
+This is a beginner-level C++ program created using Visual Studio 2022.
+
+## What this program does
+- Declares an integer variable
+- Assigns a value to the variable
+- Prints the value using cout
+
+## Tools Used
+- C++
+- Visual Studio 2022
+
+This project is part of my step-by-step C++ learning journey.
 
