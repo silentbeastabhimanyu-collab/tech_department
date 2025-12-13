@@ -337,4 +337,18 @@ This is a beginner-level C++ program created using Visual Studio 2022.
 - Visual Studio 2022
 
 This project is part of my step-by-step C++ learning journey.
+# JavaScript Basics
+
+This repository contains my initial JavaScript practice work.
+
+## What I am learning
+- JavaScript fundamentals
+- Basic setup and execution
+- Step-by-step learning approach
+
+## Tools Used
+- JavaScript
+- Visual Studio Code
+
+This repository documents my JavaScript learning journey.
 
