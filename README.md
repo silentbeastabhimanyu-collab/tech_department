@@ -546,4 +546,25 @@ let q = "5";
 
 console.log(p == q);   // true
 console.log(p === q);  // false
+# JavaScript Relational Operators
+
+This repository demonstrates the use of relational operators in JavaScript with real-life examples.
+
+## Operators Covered
+- Greater than or equal to (>=)
+- Less than or equal to (<=)
+
+## Examples
+- Age eligibility check
+- Pass/Fail marks logic
+
+## Output
+The program prints boolean values (true/false) based on conditions.
+
+## Status
+✅ Completed – Relational Operators Practice
+
+---
+Strong logic is the backbone of programming.
+– Abhimanyu (Silent Beast)
 
