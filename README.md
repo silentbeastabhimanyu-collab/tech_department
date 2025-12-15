@@ -440,4 +440,28 @@ web-development
 frontend
 coding-practice
 learning-javascript
+# JavaScript Variables – let & const
+
+This repository contains JavaScript practice focused on understanding variables.
+
+## Concepts Covered
+- let keyword (re-assignable variables)
+- const keyword (constant values)
+- console.log() for output
+- Numbers and strings
+- Real-world variable examples
+
+## Example Topics
+- Score update
+- PI constant
+- Gym name
+- Weightlifting values
+
+## Status
+✅ Completed – Variables Practice (Class 2)
+
+---
+Learning fundamentals with discipline.  
+Silent work. Long-term growth.  
+– Abhimanyu (Silent Beast)
 
