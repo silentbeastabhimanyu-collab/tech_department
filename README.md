@@ -509,4 +509,26 @@ The program prints `true` or `false` based on comparison results.
 Learning logic step by step.
 Silent work. Strong foundation.
 – Abhimanyu (Silent Beast)
+# JavaScript Variables & Basic Addition
+
+This repository contains beginner-level JavaScript practice focused on variables and basic operations.
+
+## Concepts Covered
+- Variable declaration using let
+- Printing values using console.log()
+- Basic addition of numbers
+- String and number handling
+
+## Example Values
+- Name, age
+- City
+- Simple addition examples
+
+## Status
+✅ Completed – Variables & Addition Practice
+
+---
+Strong basics build strong developers.
+Silent execution. Long-term growth.
+– Abhimanyu (Silent Beast)
 
