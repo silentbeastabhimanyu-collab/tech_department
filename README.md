@@ -464,4 +464,26 @@ This repository contains JavaScript practice focused on understanding variables.
 Learning fundamentals with discipline.  
 Silent work. Long-term growth.  
 – Abhimanyu (Silent Beast)
+# JavaScript Data Types & typeof
+
+This repository contains beginner-level JavaScript practice focused on understanding data types.
+
+## Concepts Covered
+- String, Number, Boolean data types
+- typeof operator
+- Boolean value change (true / false)
+- console.log() output
+
+## Example Variables
+- Name, age, student status
+- City and pincode
+- Gym open / close (boolean)
+
+## Status
+✅ Completed – Data Types Practice
+
+---
+Building fundamentals with discipline.
+Silent work. Strong growth.
+– Abhimanyu (Silent Beast)
 
