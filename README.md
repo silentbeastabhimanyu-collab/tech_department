@@ -567,4 +567,20 @@ The program prints boolean values (true/false) based on conditions.
 ---
 Strong logic is the backbone of programming.
 – Abhimanyu (Silent Beast)
+# Python Tuple – Indexing & Negative Indexing
+
+This repository contains Python beginner-level practice on tuple indexing.
+
+## Concepts Covered
+- Tuple creation
+- Normal indexing (0, 1, 2…)
+- Negative indexing (-1, -2…)
+- Single-element tuple
+- Tuples with numbers and strings
+
+## Example
+```python
+t = (10, 20, 30, 40)
+print(t[-1])   # 40
+print(t[0])    # 10
 
