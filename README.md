@@ -531,4 +531,19 @@ This repository contains beginner-level JavaScript practice focused on variables
 Strong basics build strong developers.
 Silent execution. Long-term growth.
 – Abhimanyu (Silent Beast)
+# JavaScript == vs === (Important Concept)
+
+This repository demonstrates the difference between equality and strict equality in JavaScript.
+
+## Operators Explained
+- ==  (Equality operator – compares values)
+- === (Strict equality operator – compares value and type)
+
+## Example
+```js
+let p = 5;
+let q = "5";
+
+console.log(p == q);   // true
+console.log(p === q);  // false
 
