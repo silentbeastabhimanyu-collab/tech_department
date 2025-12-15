@@ -413,4 +413,31 @@ This project demonstrates the use of tuples in Python.
 - PyCharm
 
 This repository documents my step-by-step Python learning progress.
+# JavaScript Basics – Class 1
+
+This repository contains my JavaScript Class 1 practice code.
+
+## Topics Covered
+- console.log() usage
+- Printing strings and numbers
+- Arithmetic operations (+, -)
+- Basic JavaScript syntax
+
+## Purpose
+To build a strong foundation in JavaScript through daily hands-on practice.
+
+## Status
+✅ Completed – Class 1
+
+---
+Learning step by step.  
+Silent work. Strong growth.  
+– Abhimanyu (Silent Beast)
+javascript
+javascript-basics
+beginner-friendly
+web-development
+frontend
+coding-practice
+learning-javascript
 
