@@ -486,4 +486,27 @@ This repository contains beginner-level JavaScript practice focused on understan
 Building fundamentals with discipline.
 Silent work. Strong growth.
 – Abhimanyu (Silent Beast)
+# JavaScript Comparison Operators
+
+This repository contains beginner-level JavaScript practice focused on comparison operators.
+
+## Operators Covered
+- Greater than (>)
+- Less than (<)
+- Equal to (==)
+- Not equal to (!=)
+
+## Example
+Two numbers are compared to understand how JavaScript returns boolean values.
+
+## Output
+The program prints `true` or `false` based on comparison results.
+
+## Status
+✅ Completed – Comparison Operators Practice
+
+---
+Learning logic step by step.
+Silent work. Strong foundation.
+– Abhimanyu (Silent Beast)
 
