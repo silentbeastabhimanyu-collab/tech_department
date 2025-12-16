@@ -619,3 +619,38 @@ PyCharm IDE
 
 Study. Code. Lift.
 — Abhimanyu (Silent Beast)
+# Python Tuple Methods & Looping – 16 Dec 2025
+
+This repository contains Python practice code focused on **tuple data structure** and its commonly used methods and looping techniques.
+
+## 📚 Topics Covered
+
+- Tuple basics
+- `count()` method  
+- `index()` method  
+- Tuple iteration using `for` loop  
+- Accessing elements using index
+- Looping with `range(len(tuple))`
+- Using `enumerate()` with tuple
+
+## 🧠 What I Learned
+
+- How to count occurrences of elements in a tuple
+- How to find the index position of tuple elements
+- Different ways to loop through tuples
+- Clean and readable iteration using `enumerate()`
+- Understanding index-value relationship in tuples
+
+## 🧪 Example Code Snippets
+
+```python
+t = (10, 20, 30, 40)
+
+for x in t:
+    print(x)
+t = (10, 20, 10, 30)
+print(t.count(10))
+print(t.index(20))
+t = ('a', 'b', 'c')
+for index, value in enumerate(t):
+    print(index, value)
