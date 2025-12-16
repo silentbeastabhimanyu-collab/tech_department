@@ -583,4 +583,39 @@ This repository contains Python beginner-level practice on tuple indexing.
 t = (10, 20, 30, 40)
 print(t[-1])   # 40
 print(t[0])    # 10
+This repository contains Python practice code focused on tuple data structures and their commonly used methods.
 
+Topics Covered
+
+Tuple creation and immutability
+
+count() method to find frequency of elements
+
+index() method to locate element positions
+
+Understanding zero-based indexing
+
+Clean execution and output verification using PyCharm
+
+Purpose
+
+The goal of this practice is to build a strong foundation in Python data structures, which is essential for problem-solving, interviews, and real-world programming.
+
+Practice Date
+
+📅 16 December 2025
+
+🔧 Technologies Used
+
+Python 3
+
+PyCharm IDE
+
+🧠 Learning Status
+
+✔ Tuple methods understood
+✔ Output verified
+✔ Errors resolved through practice
+
+Study. Code. Lift.
+— Abhimanyu (Silent Beast)
