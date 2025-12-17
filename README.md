@@ -792,3 +792,26 @@ int main() {
     cout << "i am learning c++ step by step";
     return 0;
 }
+## 📌 About This Project
+This project is created to understand the **basic concept of float variables in C++**.
+
+It focuses on:
+- Declaring a float variable
+- Storing a decimal value
+- Displaying the value using `cout`
+
+This is a **beginner (Class-2 level)** C++ practice program.
+
+---
+
+## 💻 Source Code
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    float weight = 51.5;
+    cout << weight;
+    return 0;
+}
