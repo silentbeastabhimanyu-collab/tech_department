@@ -755,3 +755,10 @@ int main() {
     cout << age;
     return 0;
 }
+This C++ revision program focuses on understanding how multiple cout
+statements behave without using newline (\n).
+
+By practicing this, I learned how output formatting works in C++
+and why spacing and new lines are fully controlled by the programmer.
+
+Learning C++ step by step using Visual Studio IDE.
