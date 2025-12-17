@@ -879,3 +879,39 @@ int main() {
     cout << name;
     return 0;
 }
+# C++ Data Types Practice | Visual Studio IDE
+
+## 📌 About This Project
+This project is created to practice **basic C++ data types** in a single program.
+
+It covers the most commonly used variables in C++:
+- `int`   → integer values
+- `float` → decimal values
+- `char`  → single character
+- `string`→ text or name
+
+The goal is to understand how different data types are declared,
+stored in memory, and displayed using `cout`.
+
+---
+
+## 💻 Source Code
+
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    int age = 31;
+    float weight = 51.5;
+    char level = 'A';
+    string name = "Silent Beast";
+
+    cout << age << "\n";
+    cout << weight << "\n";
+    cout << level << "\n";
+    cout << name << "\n";
+
+    return 0;
+}
