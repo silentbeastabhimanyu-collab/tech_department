@@ -855,3 +855,27 @@ int main() {
     cout << grade;
     return 0;
 }
+
+## 🔹 README.md
+```md
+# C++ String Variable Practice | Visual Studio IDE
+
+## 📌 About
+This project demonstrates the use of **string variables in C++**.
+
+Strings are used to store **multiple characters or text** and require
+the `<string>` header file.
+
+---
+
+## 💻 Source Code
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    string name = "Abhimanyu";
+    cout << name;
+    return 0;
+}
