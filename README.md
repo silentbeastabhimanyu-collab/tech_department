@@ -815,3 +815,43 @@ int main() {
     cout << weight;
     return 0;
 }
+# C++ Char Variable Practice | Visual Studio IDE
+
+## 📌 About
+This project focuses on understanding the **char data type in C++**.
+
+The `char` type is used to store a **single character** and is written
+inside single quotes (' ').
+
+---
+
+## 💻 Source Code
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    char grade = 'A';
+    cout << grade;
+    return 0;
+}
+# C++ Char Variable Practice | Visual Studio IDE
+
+## 📌 About
+This project focuses on understanding the **char data type in C++**.
+
+The `char` type is used to store a **single character** and is written
+inside single quotes (' ').
+
+---
+
+## 💻 Source Code
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    char grade = 'A';
+    cout << grade;
+    return 0;
+}
