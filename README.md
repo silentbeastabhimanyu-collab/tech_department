@@ -675,3 +675,34 @@ int main() {
     cout << "hello world";
     return 0;
 }
+# C++ Output Practice | Visual Studio
+
+## 📌 About
+This project is created to practice **multiple output statements in C++**
+using `cout`.
+
+It helps in understanding:
+- How output works in C++
+- Printing multiple strings
+- Output order and formatting
+
+---
+
+## 💻 Source Code
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "hello world";
+    cout << "Abhimanyu";
+    cout << "silent beast";
+    cout << "c++ practice";
+    cout << "Hello\n";
+    cout << "world";
+    cout << "HELLO";
+    cout << "hello";
+    cout << "i am learning c++ step by step";
+    return 0;
+}
