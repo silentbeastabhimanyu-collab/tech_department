@@ -706,3 +706,29 @@ int main() {
     cout << "i am learning c++ step by step";
     return 0;
 }
+## 📌 What This Project Covers
+- Multiple `cout` statements
+- New line formatting using `\n`
+- Clean and readable console output
+- Beginner-friendly C++ structure
+
+---
+
+## 💻 Source Code Example
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "hello world\n";
+    cout << "Abhimanyu\n";
+    cout << "silent beast\n";
+    cout << "c++ practice\n";
+    cout << "Hello\n";
+    cout << "world\n";
+    cout << "HELLO\n";
+    cout << "hello\n";
+    cout << "i am learning c++ step by step\n";
+    return 0;
+}
