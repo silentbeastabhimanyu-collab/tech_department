@@ -732,3 +732,26 @@ int main() {
     cout << "i am learning c++ step by step\n";
     return 0;
 }
+## 📌 About This Project
+This project is created to understand the **basic concept of variables in C++**.
+
+It focuses on:
+- Declaring an integer variable
+- Assigning a value to the variable
+- Displaying the value using `cout`
+
+This is a **Class-2 level** C++ practice project.
+
+---
+
+## 💻 Source Code
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int age = 31;
+    cout << age;
+    return 0;
+}
