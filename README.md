@@ -654,3 +654,24 @@ print(t.index(20))
 t = ('a', 'b', 'c')
 for index, value in enumerate(t):
     print(index, value)
+##  About This Project
+This is my first basic C++ program written and executed using **Microsoft Visual Studio**.
+
+The purpose of this project is to understand:
+- Basic C++ structure
+- `#include <iostream>`
+- `main()` function
+- `cout` for output
+
+---
+
+## 🧠 Code Explanation
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "hello world";
+    return 0;
+}
