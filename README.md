@@ -762,3 +762,33 @@ By practicing this, I learned how output formatting works in C++
 and why spacing and new lines are fully controlled by the programmer.
 
 Learning C++ step by step using Visual Studio IDE.
+# C++ Output Revision | cout Without Newline
+
+## 📌 About This Project
+This project is a **revision-level C++ practice program**
+focused on understanding how multiple `cout` statements
+print output **without using newline (`\n`)**.
+
+It helps beginners clearly see how output joins together
+when no line break is provided.
+
+---
+
+## 💻 Source Code
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "hello world";
+    cout << "Abhimanyu";
+    cout << "silent beast";
+    cout << "c++ practice";
+    cout << "Hello";
+    cout << "world";
+    cout << "HELLO";
+    cout << "hello";
+    cout << "i am learning c++ step by step";
+    return 0;
+}
